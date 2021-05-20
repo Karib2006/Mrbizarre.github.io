@@ -1,8 +1,28 @@
 #imag{
     border-radius: 100px;
+    border: solid white 0.25rem;
 }
 
 #contact{
     margin: auto;
     width: 18%;
+}
+
+#sub-button{
+    text-decoration: none;
+    margin-left: 43%;
+    font-size: 2rem;
+    border: solid white 0.125rem;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: Arial, Helvetica, sans-serif ;
+    border-radius: 5px;
+}
+
+#sub-button:hover{
+    background-color: rgb(250, 27, 27);
+    color: white;
+    border-color: none;
+    border-radius: 5px;
 }
