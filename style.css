@@ -32,3 +32,11 @@
 .contacts:hover{
     border: solid white 0.125rem;
 }
+
+#video{
+    display: block;
+    margin: auto;
+    min-width: 500px;
+    min-height: 220px;
+
+}
